@@ -11,7 +11,7 @@ export default function Header() {
 				</span>
 
 				<h2 className="text-5xl font-semibold uppercase z-10">
-					Enhance your look with our lash beauty services ✨
+					Enhance your look with our lash beauty services 👑
 				</h2>
 
 				<div className="z-10">
