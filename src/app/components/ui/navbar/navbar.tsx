@@ -22,7 +22,7 @@ export default function Navbar() {
 						+52 55 2732 0451
 					</a>
 
-					<div className="dropdown dropdown-hover dropdown-end">
+					<div className="dropdown dropdown-hover dropdown-bottom">
 						<div tabIndex={0} role="button" className="btn btn-sm my-auto z-20">
 							<IconLanguage className="h-5 w-5" />
 						</div>
