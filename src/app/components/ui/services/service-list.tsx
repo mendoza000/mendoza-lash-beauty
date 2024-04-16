@@ -16,7 +16,7 @@ export default function ServiceList() {
 			/>
 			<ServiceCard
 				link="https://api.whatsapp.com/send?phone=525527320451&text=Hi%F0%9F%91%8B.%20I%27m%20interested%20in%20Technological%20Volume%20Lash%20services!"
-				imagePath="/images/Volumen.jpeg"
+				imagePath="/images/volumen.jpeg"
 				title="Technological Volume"
 			/>
 			<ServiceCard
