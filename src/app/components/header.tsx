@@ -15,10 +15,14 @@ export default function Header() {
 				</h2>
 
 				<div className="z-10">
-					<button className="btn btn-primary group ">
+					<a
+						href="https://api.whatsapp.com/send?phone=525527320451&text=Hi%F0%9F%91%8B.%20I%27m%20interested%20in%20Mendoza%20Lash%20Beauty%27s%20services!"
+						target="_blank"
+						className="btn btn-primary group "
+					>
 						<IconMessage className="h-6 w-6 group-hover:mr-2 duration-200" />
 						Schedule your appointment
-					</button>
+					</a>
 				</div>
 
 				<Image
